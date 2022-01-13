@@ -1,7 +1,7 @@
 # Covid with Context
 Linear Regression based analysis of COVID-19 statistics. 
 
-@[covid_context](https://twitter.com/covid_context/)
+View the bot in action: [@covid_context](https://twitter.com/covid_context/)
 
 Any Feedback and additional requests of are more than welcome, if you want to run the program for yourself for any reason, just install the library and add your API keys, uses in anyway possible, apart from for use spreading misinformation.
 
